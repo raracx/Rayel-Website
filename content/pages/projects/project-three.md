@@ -8,7 +8,7 @@ description: >-
   Vita Bella Montreal is an online store specializing in natural and organic
   fresh food delivery in Montreal. For this project, I developed a user-friendly
   e-commerce website using WordPress, integrating custom cart shopping system to
-  facilitate seamless online shopping experiences.
+  facilitate seamless online shopping experience.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
