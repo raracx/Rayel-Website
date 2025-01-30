@@ -58,13 +58,6 @@ bottomSections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
         - type: TextFormControl
           name: Phone Number
           label: Phone Number
@@ -72,6 +65,13 @@ bottomSections:
           placeholder: Phone Number
           width: 1/2
           isRequired: false
+        - name: message
+          label: Message
+          hideLabel: true
+          placeholder: Tell me about your project
+          isRequired: true
+          width: full
+          type: TextareaFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
