@@ -236,7 +236,7 @@ sections:
       - type: Label
         label: Vue.js
       - type: Label
-        label: Pancakes
+        label: Firebase
       - type: Label
         label: C++
       - type: Label
