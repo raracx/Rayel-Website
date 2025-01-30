@@ -56,7 +56,7 @@ bottomSections:
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: full
+          width: 1/2
           type: EmailFormControl
         - name: message
           label: Message
