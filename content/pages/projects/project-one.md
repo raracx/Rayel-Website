@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-10-15'
 client: Envirospec Inc.
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I developed a corporate website using WordPress, incorporating custom CSS and
+  HTML to create a responsive and visually appealing design. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
