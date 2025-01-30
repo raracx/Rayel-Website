@@ -11,7 +11,7 @@ description: >-
   for seamless online shopping experience.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/vitabellamontreal.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
