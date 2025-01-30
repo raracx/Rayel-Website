@@ -15,7 +15,7 @@ featuredImage:
   altText: Envirospec
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/envirospec.png
   altText: Project image
 ---
 
