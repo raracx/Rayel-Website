@@ -17,10 +17,11 @@ sections:
       I’m Rayel, a Computer Science student at Concordia, a developer with
       rigorous freelance web development experience. 
     subtitle: >-
-      My coursework in algorithms, databases, and systems programming
-      complements my passion for building clean, user-centric web applications.
-      When I’m not debugging code or hiking Mont-Royal, I’m probably tinkering
-      with a new JavaScript framework.
+      I’m a passionate developer with experience in building dynamic,
+      user-friendly websites. With a strong foundation in programming, data
+      structures, and web development, I specialize in crafting high-performance
+      websites and applications. My goal is to blend creativity with technology
+      to develop innovative digital solutions.
     styles:
       self:
         height: auto
