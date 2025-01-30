@@ -240,7 +240,7 @@ sections:
       - type: Label
         label: SQL
       - type: Label
-        label: Swift
+        label: Shopify
   - type: DividerSection
     styles:
       self:
