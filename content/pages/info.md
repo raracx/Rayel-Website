@@ -261,6 +261,8 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
+
+
       <rayelexpert@hotmail.com>
   - type: DividerSection
     styles:
