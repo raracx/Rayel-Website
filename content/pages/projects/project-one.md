@@ -6,7 +6,9 @@ date: '2021-10-15'
 client: Envirospec Inc.
 description: >-
   I developed a corporate website using WordPress, incorporating custom CSS and
-  HTML to create a responsive and visually appealing design. 
+  HTML to create a responsive and visually appealing design. In addition to
+  website development, I managed Google Ads campaigns to enhance online
+  visibility
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
