@@ -241,6 +241,9 @@ sections:
         label: SQL
       - type: Label
         label: Shopify
+      - type: Label
+        label: Wordpress
+        url: ''
   - type: DividerSection
     styles:
       self:
