@@ -182,7 +182,7 @@ sections:
         - type: TextFormControl
           name: Phone Number
           label: Phone Number
-          hideLabel: false
+          hideLabel: true
           placeholder: Your name
           width: full
           isRequired: false
