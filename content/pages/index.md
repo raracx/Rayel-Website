@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m Rayel, a Computer Science student at Concordia, a developer with
-      rigorous freelance web development experience. 
+    title: 'I’m Rayel, a Computer Science student at Concordia.'
     subtitle: >-
       I’m a passionate developer with experience in building dynamic,
       user-friendly websites. With a strong foundation in programming, data
