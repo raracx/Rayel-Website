@@ -183,7 +183,7 @@ sections:
           name: Phone Number
           label: Phone Number
           hideLabel: true
-          placeholder: Your name
+          placeholder: Phone Number
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
