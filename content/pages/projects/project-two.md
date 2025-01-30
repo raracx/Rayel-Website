@@ -5,10 +5,10 @@ colors: colors-a
 date: '2023-12-20'
 client: School Project
 description: >-
-  KeyUnit is a comprehensive license management platform developed as a group
-  project for Concordia University's SOEN 287 Web Programming course. The
-  application leverages JavaScript for dynamic client-side interactions and
-  Firebase for real-time database management and user authentication
+  KeyUnit is a license management platform developed as a group project for
+  Concordia University's SOEN 287 Web Programming course. The application
+  leverages JavaScript for dynamic client-side interactions and Firebase for
+  real-time database management and user authentication
 featuredImage:
   type: ImageBlock
   url: /images/keyunit.png
