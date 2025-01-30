@@ -65,6 +65,78 @@ sections:
       Methods, Marketing & Management.
 
 
+      ### **Experience**
+
+
+      #### **Freelance Web Developer** (2019 – Present)
+
+
+      *   Designed and developed websites for small businesses, improving online
+      visibility.
+
+
+      *   Created custom logos, social media branding, and digital marketing
+      strategies.
+
+
+      *   Managed hosting, domains, and WordPress, Shopify, and Magento-based
+      sites.
+
+
+
+
+      ### **Technical Skills**
+
+
+      *   **Programming:** Java (OOP), JavaScript, HTML/CSS, SQL, Python
+
+
+      *   **Web Development:** WordPress, Shopify, Magento, React (learning)
+
+
+      *   **Database Management:** MySQL, Firebase
+
+
+      *   **Hosting & Domains:** Website Deployment & Maintenance
+
+
+      *   **Marketing & Business:** Google Ads, Social Media Marketing, SEO
+
+
+
+
+      ### **Projects**
+
+
+      1.  **E-Commerce Website Development** – Built custom Shopify & WordPress
+      stores for various clients.
+
+
+      2.  **Portfolio Website** – Developed my own responsive portfolio
+      showcasing my skills & work.
+
+
+      3.  **Key Licences management website**– Created a database-backed web
+      application for school group project
+
+
+
+
+      ### **Interests & Hobbies**
+
+
+      *   Web Development & Programming
+
+
+      *   Calisthenics & Fitness
+
+
+      *   Hiking & Traveling
+
+
+      *   Business & Marketing
+
+
 
 
 
