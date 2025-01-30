@@ -28,9 +28,9 @@
             {
                 "type": "Social",
                 "altText": "Twitter",
-                "label": "Twitter",
+                "label": "",
                 "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:rayelexpert@hotmail.com",
                 "altText": ""
             },
             {
@@ -70,25 +70,30 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/raracx",
+                "altText": "Github"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "(514) 834-7711",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "rayelexpert@hotmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
-            "addressAltText": "My address"
+            "address": "Montreal, Qc, Canada",
+            "addressAltText": "Located in"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Rayel 2025\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

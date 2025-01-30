@@ -13,14 +13,32 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, I'm Rayel!
+
+
+      I’m a web developer and computer science student at Concordia University,
+      passionate about building scalable, efficient, and user-friendly web
+      applications.  I’ve been immersed in tech and design, helping businesses
+      establish a strong online presence.
+
+
+      Currently, I’m freelancing, working on projects that blend creativity with
+      technical problem-solving. My experience spans from web design to
+      full-stack development, with a strong focus on JavaScript, Vue, React,
+      SQL, Firebase, WordPress, and e-commerce solutions.
+
+
+      When I’m not coding, designing, or optimizing databases, you’ll probably
+      find me training in calisthenics or enjoying a good road trip in the
+      mountains. 
+
+
+
+
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
       altText: Hero image
     styles:
       self:
@@ -211,17 +229,20 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: JAVA
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Vue.js
       - type: Label
-        label: Pancakes
+        label: Firebase
       - type: Label
-        label: C++
+        label: SQL
       - type: Label
-        label: Swift
+        label: Shopify
+      - type: Label
+        label: Wordpress
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -239,7 +260,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+
+
+      <rayelexpert@hotmail.com>
   - type: DividerSection
     styles:
       self:
