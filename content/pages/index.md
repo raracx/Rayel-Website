@@ -181,7 +181,7 @@ sections:
           type: CheckboxFormControl
         - type: TextFormControl
           name: Phone Number
-          label: Name
+          label: Phone Number
           hideLabel: false
           placeholder: Your name
           width: full
