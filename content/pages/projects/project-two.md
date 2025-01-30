@@ -5,9 +5,10 @@ colors: colors-a
 date: '2023-12-20'
 client: School Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  KeyUnit is a comprehensive license management platform developed as a group
+  project for Concordia University's SOEN 287 Web Programming course. The
+  application leverages JavaScript for dynamic client-side interactions and
+  Firebase for real-time database management and user authentication
 featuredImage:
   type: ImageBlock
   url: /images/keyunit.png
