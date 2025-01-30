@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'KeyUnit: Licence Management Software'
+title: 'KeyUnit: License Management Software'
 colors: colors-a
 date: '2023-12-20'
 client: School Project
