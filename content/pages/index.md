@@ -83,8 +83,6 @@ sections:
       sites.
 
 
-
-
       ### **Technical Skills**
 
 
@@ -101,44 +99,6 @@ sections:
 
 
       *   **Marketing & Business:** Google Ads, Social Media Marketing, SEO
-
-
-
-
-      ### **Projects**
-
-
-      1.  **E-Commerce Website Development** – Built custom Shopify & WordPress
-      stores for various clients.
-
-
-      2.  **Portfolio Website** – Developed my own responsive portfolio
-      showcasing my skills & work.
-
-
-      3.  **Key Licences management website**– Created a database-backed web
-      application for school group project
-
-
-
-
-      ### **Interests & Hobbies**
-
-
-      *   Web Development & Programming
-
-
-      *   Calisthenics & Fitness
-
-
-      *   Hiking & Traveling
-
-
-      *   Business & Marketing
-
-
-
-
 
   - colors: colors-f
     type: FeaturedProjectsSection
