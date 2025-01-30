@@ -151,7 +151,7 @@ sections:
     elementId: ''
     showDate: true
     showExcerpt: true
-    showFeaturedImage: true
+    showFeaturedImage: false
     showReadMoreLink: true
     styles:
       self:
