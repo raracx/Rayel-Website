@@ -49,6 +49,25 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      ### **Education**
+
+
+      **Concordia University, Montreal**
+
+      *Bachelor of Computer Science* (In Progress)
+
+      Relevant Courses:
+
+
+      *   Web Programming, Databases, Data Structures & Algorithms, Operating
+      Systems, Theoretical Computer Science, Probability & Statistics, Formal
+      Methods, Marketing & Management.
+
+
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
