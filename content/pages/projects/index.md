@@ -70,7 +70,7 @@ bottomSections:
           label: Phone Number
           hideLabel: false
           placeholder: Phone Number
-          width: full
+          width: 1/2
           isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
