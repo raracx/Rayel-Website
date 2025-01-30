@@ -174,11 +174,6 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
         - type: TextFormControl
           name: Phone Number
           label: Phone Number
@@ -186,6 +181,11 @@ sections:
           placeholder: Phone Number
           width: full
           isRequired: false
+        - name: updatesConsent
+          label: Sign me up to recieve updates
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
