@@ -13,8 +13,29 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
+    text: >+
       ## Hey, I'm Rayel!
+
+
+      I’m a web developer and computer science student at Concordia University,
+      passionate about building scalable, efficient, and user-friendly web
+      applications.  I’ve been immersed in tech and design, helping businesses
+      establish a strong online presence.
+
+
+      Currently, I’m freelancing, working on projects that blend creativity with
+      technical problem-solving. My experience spans from web design to
+      full-stack development, with a strong focus on JavaScript, Vue, React,
+      SQL, Firebase, WordPress, and e-commerce solutions.
+
+
+      When I’m not coding, designing, or optimizing databases, you’ll probably
+      find me training in calisthenics or enjoying a good road trip in the
+      mountains. 
+
+
+
+
 
     media:
       type: ImageBlock
