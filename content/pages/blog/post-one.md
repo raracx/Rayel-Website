@@ -28,6 +28,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+author: content/data/team/rayel.json
 ---
 In this blog post, I will share some key best practices that ensure a website’s success.
 
