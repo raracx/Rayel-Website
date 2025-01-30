@@ -61,7 +61,7 @@ bottomSections:
         - type: TextFormControl
           name: Phone Number
           label: Phone Number
-          hideLabel: false
+          hideLabel: true
           placeholder: Phone Number
           width: 1/2
           isRequired: false
