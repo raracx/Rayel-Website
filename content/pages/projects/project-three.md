@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Vita Bella Montreal -Ecommerce
 colors: colors-a
-date: '2022-01-22'
+date: '2022-02-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
