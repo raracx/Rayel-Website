@@ -67,7 +67,7 @@ bottomSections:
           type: TextareaFormControl
         - type: TextFormControl
           name: Phone Number
-          label: Name
+          label: Phone Number
           hideLabel: false
           placeholder: Phone Number
           width: full
