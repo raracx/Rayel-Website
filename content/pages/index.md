@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -139,21 +139,19 @@ sections:
         justifyContent: flex-end
     subtitle: Projects
   - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-f
-    variant: variant-d
     subtitle: Featured Posts
-    showFeaturedImage: false
     actions:
       - type: Link
         label: See all posts
         url: /blog
     posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+      - content/pages/blog/post-one.md
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
     showDate: true
     showExcerpt: true
+    showFeaturedImage: false
     showReadMoreLink: true
     styles:
       self:
@@ -183,7 +181,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -209,13 +207,20 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: Company
+          label: Company
           hideLabel: true
-          placeholder: Address
+          placeholder: Company
           isRequired: true
           width: 1/2
           type: TextFormControl
+        - type: TextFormControl
+          name: Phone Number
+          label: Phone Number
+          hideLabel: true
+          placeholder: Phone Number
+          width: full
+          isRequired: false
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
