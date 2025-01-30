@@ -69,7 +69,7 @@ bottomSections:
           name: Phone Number
           label: Name
           hideLabel: false
-          placeholder: Your name
+          placeholder: Phone Number
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
