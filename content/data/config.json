@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Rayel",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:rayelexpert@hotmail.com",
+                "url": "mailto:contact@rayels.dev",
                 "altText": ""
             },
             {
@@ -79,7 +79,7 @@
             "title": "Contact details",
             "phoneNumber": "(514) 834-7711",
             "phoneAltText": "My phone number",
-            "email": "rayelexpert@hotmail.com",
+            "email": "contact@rayels.dev",
             "emailAltText": "My email",
             "address": "Montreal, Qc, Canada",
             "addressAltText": "Located in"
