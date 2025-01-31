@@ -176,31 +176,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
   - type: CtaSection
     title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
     text: ''
