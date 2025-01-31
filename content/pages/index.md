@@ -206,7 +206,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Contact me now
         altText: ''
         url: /
         showIcon: true
