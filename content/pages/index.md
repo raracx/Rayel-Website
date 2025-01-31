@@ -176,72 +176,38 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: ContactSection
+  - type: CtaSection
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
+    text: ''
+    actions:
+      - type: Button
+        label: Contact me now
+        altText: ''
+        url: 'mailto:contact@rayels.dev'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: 'Last Name  '
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: Company
-          label: Company
-          hideLabel: true
-          placeholder: Company
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - type: TextFormControl
-          name: Phone Number
-          label: Phone Number
-          hideLabel: true
-          placeholder: Phone Number
-          width: full
-          isRequired: false
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-28
           - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
       title:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
