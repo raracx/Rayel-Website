@@ -98,7 +98,7 @@ sections:
         caption: Logo four
       - type: ImageBlock
         url: /images/ssconseil.png
-        altText: Logo five
+        altText: SSconseil
         caption: Logo five
     spacing: 3
     columns: 5
