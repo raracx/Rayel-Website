@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'I’m Rayel, a Computer Science student at Concordia.'
+    title: 'I’m Rayel, a Computer Science student at Concordia.0'
     subtitle: >-
       I’m a passionate developer with experience in building dynamic,
       user-friendly websites. With a strong foundation in programming, data
