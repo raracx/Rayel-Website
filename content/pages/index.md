@@ -191,7 +191,54 @@ sections:
         elementId: ''
     colors: colors-f
     backgroundSize: full
+<<<<<<< HEAD
     elementId: ''
+=======
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
+    form:
+      type: FormBlock
+      elementId: sign-up-form
+      fields:
+        - name: firstName
+          label: First Name
+          hideLabel: true
+          placeholder: First Name
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - name: lastName
+          label: Last Name
+          hideLabel: true
+          placeholder: Last Name
+          isRequired: false
+          width: 1/2
+          type: TextFormControl
+        - name: email
+          label: Email
+          hideLabel: true
+          placeholder: Email
+          isRequired: true
+          width: 1/2
+          type: EmailFormControl
+        - name: Company
+          label: Company
+          hideLabel: true
+          placeholder: Company
+          isRequired: true
+          width: 1/2
+          type: TextFormControl
+        - type: TextFormControl
+          name: Phone Number
+          label: Phone Number
+          hideLabel: true
+          placeholder: Phone Number
+          width: full
+          isRequired: false
+      submitLabel: "Submit \U0001F680"
+      styles:
+        submitLabel:
+          textAlign: center
+>>>>>>> parent of 2000321 (Publish)
     styles:
       self:
         height: auto
