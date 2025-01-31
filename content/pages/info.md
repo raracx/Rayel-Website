@@ -81,7 +81,7 @@ sections:
     subtitle: 'Some of the companies I worked with: '
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/envirospecLogo.webp
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
