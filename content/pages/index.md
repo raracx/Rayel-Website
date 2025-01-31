@@ -177,7 +177,7 @@ sections:
       actions:
         justifyContent: flex-end
   - type: CtaSection
-    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC tt"
     text: ''
     actions:
       - type: Button
