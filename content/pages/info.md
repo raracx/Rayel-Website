@@ -94,7 +94,7 @@ sections:
         caption: Logo three
       - type: ImageBlock
         url: /images/lariahair.png
-        altText: Logo four
+        altText: Lariahair
         caption: Logo four
       - type: ImageBlock
         url: /images/logo5.svg
