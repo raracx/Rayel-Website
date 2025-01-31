@@ -78,28 +78,34 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Some of the companies I worked with: '
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
+        url: /images/envirospecLogo.webp
+        altText: Envirospec
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
+        url: /images/KeyUnit logo.png
+        altText: KeyUnit
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/VITA-BELLA-logo.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
+        url: /images/lariahair.png
+        altText: Lariahair
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
+        url: /images/ssconseil.png
+        altText: SSconseil
         caption: Logo five
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
