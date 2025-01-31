@@ -371,4 +371,38 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: CtaSection
+    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
+    text: ''
+    actions:
+      - type: Button
+        label: Contact me now
+        altText: ''
+        url: 'mailto:contact@rayels.dev'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
