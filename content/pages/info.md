@@ -260,9 +260,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-
-
-      <rayelexpert@hotmail.com>
+      <contact@rayels.dev>
   - type: DividerSection
     styles:
       self:
