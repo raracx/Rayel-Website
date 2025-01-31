@@ -89,7 +89,7 @@ sections:
         altText: KeyUnit
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/VITA-BELLA-logo.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
