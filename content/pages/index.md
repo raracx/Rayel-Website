@@ -208,7 +208,7 @@ sections:
       - type: Button
         label: Contact me now
         altText: ''
-        url: /
+        url: 'mailto:contact@rayels.dev'
         showIcon: true
         icon: arrowRight
         iconPosition: right
