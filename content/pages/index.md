@@ -203,9 +203,7 @@ sections:
         textAlign: left
   - type: CtaSection
     title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: ''
     actions:
       - type: Button
         label: Try it now
