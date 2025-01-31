@@ -97,7 +97,7 @@ sections:
         altText: Lariahair
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/ssconseil.png
         altText: Logo five
         caption: Logo five
     spacing: 3
