@@ -101,13 +101,12 @@ sections:
         altText: SSconseil
         caption: Logo five
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/quebecniaiseries.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
-    spacing: 3
-    columns: 5
+    spacing: 7
+    columns: 6
     aspectRatio: auto
     showCaption: false
     enableHover: false
