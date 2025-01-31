@@ -82,7 +82,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/envirospecLogo.webp
-        altText: Logo one
+        altText: Envirospec
         caption: Logo one
       - type: ImageBlock
         url: /images/KeyUnit logo.png
