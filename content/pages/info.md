@@ -85,7 +85,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/KeyUnit logo.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
