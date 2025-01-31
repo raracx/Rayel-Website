@@ -372,7 +372,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    title: "Got an interesting project or opportunity? Tell me more...\U0001F4AC"
+    title: "Got an interesting project or opportunity? Tell me more... \U0001F4AC"
     text: ''
     actions:
       - type: Button
